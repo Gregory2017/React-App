@@ -4,8 +4,8 @@ import './index.scss';
 
 const cats = [
   { "id": 0, "name": "Все" },
-  { "id": 1, "name": "Горы" },
-  { "id": 2, "name": "Море" },
+  { "id": 1, "name": "Море" },
+  { "id": 2, "name": "Горы" },
   { "id": 3, "name": "Архитектура" },
   { "id": 4, "name": "Города" }
 ];
